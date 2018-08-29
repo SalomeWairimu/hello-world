@@ -2,4 +2,4 @@
 First repository
 
 Hi!
-I am Salome, my favorite coding language is c++.
+I am Salome, my favorite coding language is Python.
